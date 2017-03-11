@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cash Karo</string>
+
+
+    <!-- Login-->
+    <string name="sign_in">Sign In</string>
+
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="yet_to_implement">This feature is yet to be implemented</string>
+    <string name="sign_in_with_facebook">Sign in with facebook</string>
+    <string name="or">OR</string>
+    <string name="signup_to_join">Sign Up To Join</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter User Name </string>
+    <string name="enter_password">Enter Password</string>
+
+    <!-- Sign up-->
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="choose_password">Choose Password</string>
+    <string name="agree_to_terms_and_cond">I Agree To Terms &amp; Conditions</string>
+    <string name="signup_with_facebook">Sign Up With Facebook</string>
+    <string name="join_now">Join Now</string>
+    <string name="eneter_email_id">Enter a valid email id</string>
+    <string name="terms_and_cond_error">Please Check Terms and Conditions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
